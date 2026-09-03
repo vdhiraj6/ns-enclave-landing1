@@ -74,7 +74,7 @@ footer strong{color:#fff}
   .price{font-size:21px}
 }
 
-.gallery-section{background:#f7f3eb}
+.gallary-section{background:#f7f3eb}
 .photo-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:16px}
 .photo-card{background:#fff;border-radius:18px;overflow:hidden;border:1px solid #e7dfd1;box-shadow:0 10px 28px rgba(18,35,55,.07);aspect-ratio:4/3}
 .photo-card img{width:100%;height:100%;display:block;object-fit:cover;transition:transform .35s ease}
